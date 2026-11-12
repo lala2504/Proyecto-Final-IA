@@ -1,0 +1,8 @@
+pandas
+openpyxl
+python-dotenv
+jupyter
+langchain-core
+langchain-openai
+langgraph
+
