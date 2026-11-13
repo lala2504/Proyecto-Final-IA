@@ -88,7 +88,7 @@ No se deben publicar claves de API ni archivos `.env` en el repositorio.
 - [x] Estructura inicial creada.
 - [ ] Carga y validación de datos.
 - [ ] Implementación y pruebas unitarias de las herramientas.
-- [ ] Construcción del agente con LangGraph.
-- [ ] Límite de llamadas a herramientas.
+- [x] Construcción del agente con LangGraph.
+- [x] Límite de llamadas a herramientas.
 - [ ] Cinco casos de prueba y análisis de resultados.
 
