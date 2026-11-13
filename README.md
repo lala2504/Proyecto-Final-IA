@@ -1,10 +1,12 @@
 # Agente de finanzas personales
 
-Proyecto final de la asignatura SI3003 Inteligencia Artificial.
+Proyecto final de la asignatura Inteligencia Artificial.
 
 ## Integrantes
 
-- Por completar.
+- Santiago Bedoya Posada
+- Alejandro Gutierrez Muñoz
+- Laura Franco Berrío
 
 ## Problema
 
@@ -83,12 +85,11 @@ No se deben publicar claves de API ni archivos `.env` en el repositorio.
 
 ## Estado actual
 
-- [x] Problema y alcance definidos.
-- [x] Datos sintéticos disponibles.
-- [x] Estructura inicial creada.
-- [ ] Carga y validación de datos.
-- [ ] Implementación y pruebas unitarias de las herramientas.
-- [x] Construcción del agente con LangGraph.
-- [x] Límite de llamadas a herramientas.
-- [ ] Cinco casos de prueba y análisis de resultados.
-
+- [X] Problema y alcance definidos.
+- [X] Datos sintéticos disponibles.
+- [X] Estructura inicial creada.
+- [X] Carga y validación de datos.
+- [X] Implementación y pruebas unitarias de las herramientas.
+- [X] Construcción del agente con LangGraph.
+- [X] Límite de llamadas a herramientas.
+- [X] Cinco casos de prueba y análisis de resultados.
